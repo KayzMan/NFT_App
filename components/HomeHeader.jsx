@@ -104,7 +104,7 @@ const HomeHeader = ({ onSearch }) => {
             style={{ width: 20, height: 20, marginRight: SIZES.base }}
           />
 
-          <TextInput placeholder="Search NTFS" style={{ flex: 1 }} onChange={onSearch} />
+          <TextInput placeholder="Search NTFS" style={{ flex: 1 }} onChangeText={onSearch} />
         </View>
       </View>
     </View>
