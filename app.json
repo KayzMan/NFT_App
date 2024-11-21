@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "123456"
     },
     "android": {
       "adaptiveIcon": {
@@ -27,16 +28,16 @@
     "plugins": [
       "expo-font"
     ],
-    "extra": {
-      "eas": {
-        "projectId": "e29dc416-21dd-4d8c-8fcb-0ce44e345f95"
-      }
-    },
     "runtimeVersion": {
       "policy": "appVersion"
     },
+    "extra": {
+      "eas": {
+        "projectId": "d599c3c1-4f7c-4436-921e-61e3e23758e5"
+      }
+    },
     "updates": {
-      "url": "https://u.expo.dev/e29dc416-21dd-4d8c-8fcb-0ce44e345f95"
+      "url": "https://u.expo.dev/d599c3c1-4f7c-4436-921e-61e3e23758e5"
     }
   }
 }

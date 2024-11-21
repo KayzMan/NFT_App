@@ -1,0 +1,75 @@
+ngonikatsidzira@Ngonis-MacBook-Pro NFT_App % eas update
+EAS project not configured.
+✔ Would you like to automatically create an EAS project for @kayzman/NFT_App? … yes
+✔ Created @kayzman/NFT_App: https://expo.dev/accounts/kayzman/projects/NFT_App on Expo
+✔ Linked local project to EAS project d599c3c1-4f7c-4436-921e-61e3e23758e5
+✔ Configured updates.url to "https://u.expo.dev/d599c3c1-4f7c-4436-921e-61e3e23758e5"
+
+All builds of your app going forward will be eligible to receive updates published with EAS Update.
+
+✔ No branches found. Provide a branch name: … main
+✔ Provide an update message: … NFT App
+[expo-cli] Starting Metro Bundler
+[expo-cli] iOS Bundled 24724ms index.js (898 modules)
+[expo-cli] 
+[expo-cli] Android Bundled 28259ms index.js (898 modules)
+[expo-cli] Creating asset map
+[expo-cli] 
+[expo-cli] › Assets (46):
+[expo-cli] 
+[expo-cli] assets/fonts/Inter-Bold.ttf (316 kB)
+[expo-cli] assets/fonts/Inter-Light.ttf (310 kB)
+[expo-cli] assets/fonts/Inter-Medium.ttf (315 kB)
+[expo-cli] assets/fonts/Inter-Regular.ttf (310 kB)
+[expo-cli] assets/fonts/Inter-SemiBold.ttf (316 kB)
+[expo-cli] assets/icons/badge.png (607 B)
+[expo-cli] assets/icons/eth.png (811 B)
+[expo-cli] assets/icons/heart.png (784 B)
+[expo-cli] assets/icons/left.png (476 B)
+[expo-cli] assets/icons/search.png (711 B)
+[expo-cli] assets/images/logo.png (2.2 kB)
+[expo-cli] assets/images/nft01.png (82.1 kB)
+[expo-cli] assets/images/nft02.jpeg (104 kB)
+[expo-cli] assets/images/nft03.jpeg (69.5 kB)
+[expo-cli] assets/images/nft04.jpeg (23.7 kB)
+[expo-cli] assets/images/nft05.jpeg (20.9 kB)
+[expo-cli] assets/images/nft06.jpeg (18.3 kB)
+[expo-cli] assets/images/nft07.jpeg (24.3 kB)
+[expo-cli] assets/images/person01.png (11.5 kB)
+[expo-cli] assets/images/person02.png (14.1 kB)
+[expo-cli] assets/images/person03.png (10.4 kB)
+[expo-cli] assets/images/person04.png (10.3 kB)
+[expo-cli] node_modules/@react-navigation/elements/lib/commonjs/assets/back-icon-mask.png (653 B)
+[expo-cli] node_modules/@react-navigation/elements/lib/commonjs/assets/back-icon.png (8 variations | 359 B)
+[expo-cli] node_modules/@react-navigation/elements/lib/commonjs/assets/clear-icon.png (4 variations | 425 B)
+[expo-cli] node_modules/@react-navigation/elements/lib/commonjs/assets/close-icon.png (4 variations | 235 B)
+[expo-cli] node_modules/@react-navigation/elements/lib/commonjs/assets/search-icon.png (7 variations | 592 B)
+[expo-cli] 
+[expo-cli] › ios bundles (2):
+[expo-cli] _expo/static/js/ios/index-a88e6509b12edb1e47a98b7cdeed60ec.hbc (1.38 MB)
+[expo-cli] _expo/static/js/ios/index-a88e6509b12edb1e47a98b7cdeed60ec.hbc.map (5.3 MB)
+[expo-cli] › android bundles (2):
+[expo-cli] _expo/static/js/android/index-5184af8b6ab18bb0d5ed4a389f3d1194.hbc (1.39 MB)
+[expo-cli] _expo/static/js/android/index-5184af8b6ab18bb0d5ed4a389f3d1194.hbc.map (5.32 MB)
+[expo-cli] › Files (2):
+[expo-cli] assetmap.json (17.7 kB)
+[expo-cli] metadata.json (5.42 kB)
+[expo-cli] 
+[expo-cli] Exported: dist
+✔ Exported bundle(s)
+✔ Uploaded 2 app bundles
+✔ Uploading assets skipped - no new assets found
+ℹ 42 iOS assets, 42 Android assets (maximum: 2000 total per update). Learn more about asset limits: https://expo.fyi/eas-update-asset-limits
+✔ Published!
+
+Branch             main
+Runtime version    1.0.0
+Platform           android, ios
+Update group ID    26415598-0dc4-4604-88aa-41e96a1274df
+Android update ID  97fbb41f-a83f-449b-9b50-5e417eb7ce93
+iOS update ID      5135edf4-da2d-447e-9739-a32ed2aafe12
+Message            NFT App
+Commit             0dd896c636c673e294f54e2964f84f3aecbbb367*
+EAS Dashboard      https://expo.dev/accounts/kayzman/projects/NFT_App/updates/26415598-0dc4-4604-88aa-41e96a1274df
+
+ngonikatsidzira@Ngonis-MacBook-Pro NFT_App % 
