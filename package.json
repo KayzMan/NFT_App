@@ -3,6 +3,7 @@
   "license": "0BSD",
   "version": "1.0.0",
   "main": "index.js",
+  "projectLandingPage": "https://kayzman.github.io/nft_app_showcase/",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
